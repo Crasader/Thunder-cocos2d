@@ -1,0 +1,36 @@
+﻿{
+    "contents": [
+        {
+            "title": "Game",
+            "text": "Thunder"
+        },
+        {
+            "title": "Ver",
+            "text": "1.0"
+        },
+        {
+            "title": "Client",
+            "text": "Cocos2d-X Cpp"
+        },
+        {
+            "title": "Server",
+            "text": "Java Netty"
+        },
+        {
+            "title": "主要研发人员",
+            "text": "CC 游戏制作组"
+        },
+        {
+            "title": "E-mail",
+            "text": "357449971@qq.com"
+        },
+        {
+            "title": "GitHub",
+            "text": "https://github.com/Kiritoken"
+        },
+        {
+            "title": "Phone",
+            "text": "18225608806"
+        }
+    ]
+}
